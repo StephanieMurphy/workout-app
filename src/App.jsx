@@ -63,10 +63,10 @@ export default function App() {
 }
 
 function Welcome({ onNextClick }) {
-  console.log(kettlebellPic);
   return (
     <div>
       <div className="flex justify-center mt-8">Workout Generator</div>
+      HELLO!!
       <div className="relative flex justify-center">
         <button
           className="absolute inset-0 mt-32 animate-pulse text-lg"
